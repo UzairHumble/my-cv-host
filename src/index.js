@@ -7,7 +7,7 @@ function Hi() {
     <div className='main'>
       <div className='header'>
         <h2>Uzair Malik</h2>
-        <h3>Developer</h3>
+        <h3>Developer to be...</h3>
       </div>
       <div className='content'>
         <h3 className='summary'>Summary</h3>
@@ -28,7 +28,6 @@ function Hi() {
           <li>Html 5</li>
           <li>Css</li>
           <li>JavaScript</li>
-          <li>React</li>
         </ul>
         <h3 className='social'>Social</h3>
         <span className='soc'>Email : uzairmalik2329@gmail.com</span>
